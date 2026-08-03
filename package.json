@@ -70,7 +70,7 @@
     "zustand": "^5.0.11"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250109.0",
+    "@cloudflare/workers-types": "^5.20260801.1",
     "@opennextjs/cloudflare": "^1.19.10",
     "@tailwindcss/postcss": "^4.2.0",
     "@types/jsonwebtoken": "^9.0.2",
